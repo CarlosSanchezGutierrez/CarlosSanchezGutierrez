@@ -1,4 +1,4 @@
-## Carlos Sánchez Gutiérrez: Student in Computational Technologies Engineering at Tecnológico de Monterrey (ITESM)
+## Carlos Sánchez Gutiérrez: Student on B.S Computational Technologies Engineering at Tecnológico de Monterrey (ITESM)
 
 ## 🧭 About Me
 
