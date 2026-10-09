@@ -97,7 +97,7 @@ I co-founded **Salva Systems** with my close friends and collaborators **[Lehi S
 
 | Project | |
 | :--- | :--- |
-| <a href="https://puenteimpacto.org/"><img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/puente-impacto.svg" width="150" alt="Animated Puente Impacto neon identity card" /></a> | [Puente Impacto](https://puenteimpacto.org/) |
+| <a href="https://puenteimpacto.org/"><img src="https://puenteimpacto.org/brand/puente_impacto_face.png" width="58" alt="Puente Impacto official logo" /></a> <img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/puente-impacto.svg" width="110" alt="Animated neon frame for Puente Impacto" /> | [Puente Impacto](https://puenteimpacto.org/) |
 | <a href="https://www.archivostem.com/"><img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/archivo-steam.svg" width="150" alt="Animated Archivo STEAM neon identity card" /></a> | [Archivo STEAM](https://www.archivostem.com/) |
 | | [Salva Systems](https://www.salvasystems.com/) · [Salva Exclusive Caps](https://salvaexclusivecaps.site/) · [RUNIIS](https://runiismty.com/) · [Personal portfolio](https://carlossanchezgutierrez.com/) · [Salva Systems product site](https://www.salvasystems.site/) |
 
