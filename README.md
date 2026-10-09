@@ -105,11 +105,11 @@ I co-founded **Salva Systems** with my close friends and collaborators **[Lehi S
 
 <table>
 <tr>
-<td width="180" align="center"><img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/uiuc.svg" width="150" alt="Animated Illinois Urbana-Champaign neon identity card" /></td>
+<td width="180" align="center"><img src="https://cdn.brand.illinois.edu/logos/block-i.svg" width="52" alt="Official University of Illinois Block I" /><br /><img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/uiuc.svg" width="122" alt="Animated Illinois neon frame" /></td>
 <td><strong>Academic goal</strong><br />Professional Master of Computer Science (MCS)<br /><strong>University of Illinois Urbana-Champaign</strong></td>
 </tr>
 <tr>
-<td width="180" align="center"><img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/world-bank.svg" width="150" alt="Animated World Bank Group neon identity card" /></td>
+<td width="180" align="center"><img src="https://www.worldbank.org/content/dam/wbr/logo/wbg-logo-about-en.svg" width="106" alt="Official World Bank Group logo" /><br /><img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/world-bank.svg" width="122" alt="Animated World Bank neon frame" /></td>
 <td><strong>Long-term career goal</strong><br />Work toward the <strong>World Bank Group</strong>, applying data and digital systems to inclusive development and measurable impact.</td>
 </tr>
 </table>
