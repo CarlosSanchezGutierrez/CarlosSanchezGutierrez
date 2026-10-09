@@ -39,8 +39,8 @@ My starting point is the operation: what needs to happen, where the data comes f
 | <img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/cemex.svg" width="150" alt="Animated CEMEX neon wordmark" /> | **Global Data Science Intern · EPAM NEORIS collaboration · Jan–Apr 2026**<br />Built Python and SQL workflows across Snowflake, Databricks and Azure for replenishment, forecasting and inventory planning. Translated Mexico and U.S. operating constraints into reusable data rules, contributing to an initiative associated with approximately **USD 284K in annual savings**. |
 | <img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/femsa.svg" width="150" alt="Animated FEMSA neon wordmark" /> | **Enterprise GRC/IRM platform architecture · Aug–Dec 2026**<br />Architecting a vendor-neutral platform across cloud and on-prem environments, with a canonical enterprise model, governed AI, observability and post-quantum cryptographic assurance. |
 | <img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/santander.svg" width="150" alt="Animated Santander neon wordmark" /> | **Document and training analytics platform · Aug–Dec 2025**<br />Designed MySQL data models and ETL pipelines for individual and branch dashboards; defined the AWS architecture and coordinated delivery through GitHub and Scrum. |
-| <img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/cruz-roja.svg" width="150" alt="Animated Cruz Roja neon wordmark" /> | **Completed project**<br />This project is complete and is not yet listed in my résumé. I am keeping this entry high-level until its project description is ready to publish. |
-| <a href="https://www.salvasystems.com/"><img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/salva-systems.svg" width="90" alt="Animated Salva Systems logo" /></a> | **Co-founder · Data & Product Development · Mar 2026–present**<br />Building Aplomo, a geospatial platform for industrial-yard inventory and truck traceability, and ATENOR, a multi-business WhatsApp platform for customer, catalog, conversation and order workflows. |
+| <img src="https://cruzrojamexicana.org.mx/images/logo.png" width="150" alt="Cruz Roja Mexicana official logo" /> | **Completed project**<br />This project is complete and is not yet listed in my résumé. I am keeping this entry high-level until its project description is ready to publish. |
+| <img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/salva-systems.svg" width="90" alt="Animated Salva Systems logo" /> | **Co-founder · Data & Product Development · Mar 2026–present**<br />Building Aplomo, a geospatial platform for industrial-yard inventory and truck traceability, and ATENOR, a multi-business WhatsApp platform for customer, catalog, conversation and order workflows. |
 
 ## Selected work
 
@@ -51,13 +51,13 @@ My starting point is the operation: what needs to happen, where the data comes f
 | **NeoGuard** | Data ingestion, database design, analysis and visualization for an IoT and AI neonatal-monitoring system. [IEEE paper](https://ieeexplore.ieee.org/abstract/document/11273018) |
 | **CausalXAI** | Explainable anomaly diagnosis with causal graphs, residual scoring, graph optimization and robustness testing. |
 | **Industrial energy decision support** | FastAPI, RAG and a local LLM for cited report evaluation, validated inputs and reproducible calculations. |
-| **Cáritas de Monterrey** | SQL Server and ASP.NET Core system with REST APIs, authentication, validation and audit logging for social-assistance operations. |
+| <img src="https://www.caritas.org.mx/wp-content/uploads/2019/11/caritasmty-logo-white_dc4a69f5a9b61be4fa028ffde84f244d.png" width="120" alt="Cáritas de Monterrey official logo" /><br /><strong>Cáritas de Monterrey</strong> | Two implementations: a C# backend and REST API with client applications developed against that API, plus a separate native Swift app built for class. |
 
 ## Research
 
 <table>
 <tr>
-<td width="180" align="center"><a href="https://ieeexplore.ieee.org/abstract/document/11273018"><img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/ieee.svg" width="150" alt="Animated IEEE neon identity card" /></a></td>
+<td width="180" align="center"><img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/ieee.svg" width="150" alt="Animated IEEE identity card" /></td>
 <td><strong>AI in Education: NeoGuard Advanced IoT and AI enabled Incubator for Neonatal Health Monitoring</strong><br /><br />Co-authored peer-reviewed IEEE paper presented at LARC-LARS.<br /><br /><a href="https://ieeexplore.ieee.org/abstract/document/11273018">IEEE Xplore</a> · <a href="https://scholar.google.com/citations?user=c_5ZncUAAAAJ&hl=es">Google Scholar profile</a></td>
 </tr>
 </table>
@@ -85,9 +85,9 @@ FastAPI · ASP.NET Core · REST APIs · React · Spring Boot · Spring Modulith 
 
 | Organization | Certifications |
 | :--- | :--- |
-| <img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/oracle.svg" width="135" alt="Animated Oracle neon wordmark" /> | Oracle Cloud Infrastructure Foundations · Oracle AI Foundations · Oracle Data Platform Foundations |
+| <img src="https://www.oracle.com/a/ocom/img/oracle-logo.svg" width="135" alt="Official Oracle logo" /> | Oracle Cloud Infrastructure Foundations · Oracle AI Foundations · Oracle Data Platform Foundations |
 | <img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/scrum-org.svg" width="135" alt="Animated Scrum.org neon wordmark" /> | Scrum.org Professional Scrum Developer (PSD) · Professional Scrum Master II (PSM II) · Professional Scrum Product Owner II (PSPO II) |
-| <img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/pmi.svg" width="135" alt="Animated PMI neon wordmark" /> | PMI Certified Associate in Project Management (CAPM) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/0811_PMI_logo.gif" width="135" alt="Project Management Institute logo" /> | PMI Certified Associate in Project Management (CAPM) |
 
 ## Salva Systems and the people behind it
 
@@ -97,19 +97,19 @@ I co-founded **Salva Systems** with my close friends and collaborators **[Lehi S
 
 | Project | |
 | :--- | :--- |
-| <a href="https://puenteimpacto.org/"><img src="https://puenteimpacto.org/brand/puente_impacto_face.png" width="58" alt="Puente Impacto official logo" /></a> <img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/puente-impacto.svg" width="110" alt="Animated neon frame for Puente Impacto" /> | [Puente Impacto](https://puenteimpacto.org/) |
-| <a href="https://www.archivostem.com/"><img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/archivo-steam.svg" width="150" alt="Animated Archivo STEAM neon identity card" /></a> | [Archivo STEAM](https://www.archivostem.com/) |
+| <img src="https://puenteimpacto.org/brand/puente_impacto_face.png" width="58" alt="Puente Impacto official logo" /> | [Puente Impacto](https://puenteimpacto.org/) |
+| <img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/archivo-steam.svg" width="150" alt="Animated Archivo STEAM identity card" /> | [Archivo STEAM](https://www.archivostem.com/) |
 | | [Salva Systems](https://www.salvasystems.com/) · [Salva Exclusive Caps](https://salvaexclusivecaps.site/) · [RUNIIS](https://runiismty.com/) · [Personal portfolio](https://carlossanchezgutierrez.com/) · [Salva Systems product site](https://www.salvasystems.site/) |
 
 ## What's next
 
 <table>
 <tr>
-<td width="180" align="center"><img src="https://cdn.brand.illinois.edu/logos/block-i.svg" width="52" alt="Official University of Illinois Block I" /><br /><img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/uiuc.svg" width="122" alt="Animated Illinois neon frame" /></td>
+<td width="180" align="center"><img src="https://cdn.brand.illinois.edu/logos/block-i.svg" width="52" alt="Official University of Illinois Block I" /><br /></td>
 <td><strong>Academic goal</strong><br />Professional Master of Computer Science (MCS)<br /><strong>University of Illinois Urbana-Champaign</strong></td>
 </tr>
 <tr>
-<td width="180" align="center"><img src="https://www.worldbank.org/content/dam/wbr/logo/wbg-logo-about-en.svg" width="106" alt="Official World Bank Group logo" /><br /><img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/world-bank.svg" width="122" alt="Animated World Bank neon frame" /></td>
+<td width="180" align="center"><img src="https://www.worldbank.org/content/dam/wbr/logo/wbg-logo-about-en.svg" width="106" alt="Official World Bank Group logo" /><br /></td>
 <td><strong>Long-term career goal</strong><br />Work toward the <strong>World Bank Group</strong>, applying data and digital systems to inclusive development and measurable impact.</td>
 </tr>
 </table>
