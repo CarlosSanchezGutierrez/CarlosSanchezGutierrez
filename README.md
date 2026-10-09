@@ -29,7 +29,7 @@ I build data pipelines, analytics platforms and applied AI systems that connect 
 
 **Email** · [carlos.sanchez.gtz.it@gmail.com](mailto:carlos.sanchez.gtz.it@gmail.com) · [A01412419@tec.mx](mailto:A01412419@tec.mx)  
 **Phone** · [+52 833 367 4769](tel:+528333674769)  
-**Profiles** · [LinkedIn](https://www.linkedin.com/in/carlos-sanchez-gutierrez-tec/) · [Google Scholar](https://scholar.google.com/citations?user=c_5ZncUAAAAJ&hl=es) · [GitHub](https://github.com/CarlosSanchezGutierrez)
+**Profiles** · [LinkedIn](https://www.linkedin.com/in/carlos-sanchez-gutierrez-tec/) · [Google Scholar](https://scholar.google.com/citations?user=c_5ZncUAAAAJ&hl=es) · [ORCID](https://orcid.org/0009-0004-1704-1244) · [GitHub](https://github.com/CarlosSanchezGutierrez)
 
 ## Experience
 
