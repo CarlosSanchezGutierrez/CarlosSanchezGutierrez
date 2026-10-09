@@ -86,7 +86,7 @@ FastAPI · ASP.NET Core · REST APIs · React · Spring Boot · Spring Modulith 
 | Organization | Certifications |
 | :--- | :--- |
 | <img src="https://www.oracle.com/a/ocom/img/oracle-logo.svg" width="135" alt="Official Oracle logo" /> | Oracle Cloud Infrastructure Foundations · Oracle AI Foundations · Oracle Data Platform Foundations |
-| <img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/scrum-org.svg" width="135" alt="Animated Scrum.org neon wordmark" /> | Scrum.org Professional Scrum Developer (PSD) · Professional Scrum Master II (PSM II) · Professional Scrum Product Owner II (PSPO II) |
+| <strong>Scrum.org</strong> | Scrum.org Professional Scrum Developer (PSD) · Professional Scrum Master II (PSM II) · Professional Scrum Product Owner II (PSPO II) |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/0811_PMI_logo.gif" width="135" alt="Project Management Institute logo" /> | PMI Certified Associate in Project Management (CAPM) |
 
 ## Salva Systems and the people behind it
