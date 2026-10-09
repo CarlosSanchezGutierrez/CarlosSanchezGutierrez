@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+<title id="title">Carlos Sánchez Gutiérrez — data, cloud and applied AI</title>
+<desc id="desc">A dark, animated technology banner with a connected systems motif and a concise professional introduction.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0c101a"/><stop offset=".58" stop-color="#10172a"/><stop offset="1" stop-color="#111c32"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#6380e5" stop-opacity=".28"/><stop offset="1" stop-color="#6380e5" stop-opacity="0"/></radialGradient>
+  <linearGradient id="beam"><stop stop-color="#78dce0" stop-opacity="0"/><stop offset=".5" stop-color="#78dce0" stop-opacity=".75"/><stop offset="1" stop-color="#78dce0" stop-opacity="0"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#b7c5ed" stroke-opacity=".055" stroke-width="1"/></pattern>
+</defs>
+<style>
+  .pulse{animation:pulse 5s ease-in-out infinite;transform-origin:930px 174px}
+  .orbit{animation:orbit 28s linear infinite;transform-origin:925px 174px}
+  .orbit-reverse{animation:orbit 36s linear infinite reverse;transform-origin:925px 174px}
+  .node{animation:node 4s ease-in-out infinite}
+  .node:nth-child(2){animation-delay:-1s}.node:nth-child(3){animation-delay:-2s}.node:nth-child(4){animation-delay:-3s}
+  .beam{animation:sweep 7s ease-in-out infinite}
+  @keyframes pulse{50%{opacity:.48;transform:scale(1.08)}}
+  @keyframes orbit{to{transform:rotate(360deg)}}
+  @keyframes node{50%{opacity:.35;transform:translateY(-5px)}}
+  @keyframes sweep{0%,100%{transform:translateX(0);opacity:0}18%,72%{opacity:1}50%{transform:translateX(360px)}}
+  @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important}}
+</style>
+<rect width="1200" height="350" rx="26" fill="url(#bg)"/>
+<rect width="1200" height="350" rx="26" fill="url(#grid)"/>
+<ellipse cx="925" cy="172" rx="300" ry="220" fill="url(#glow)" class="pulse"/>
+<rect x="1" y="1" width="1198" height="348" rx="25" fill="none" stroke="#b6c5ee" stroke-opacity=".14"/>
+<path d="M0 302H1200" stroke="#b6c5ee" stroke-opacity=".1"/>
+<text x="56" y="57" fill="#77d7a1" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="3">COMPUTER SCIENCE · MONTERREY, MEXICO</text>
+<text x="54" y="132" fill="#f1f4fb" font-family="Arial,sans-serif" font-size="44" font-weight="700" letter-spacing="-1.8">Carlos Sánchez Gutiérrez</text>
+<text x="57" y="177" fill="#95aaff" font-family="Arial,sans-serif" font-size="19" font-weight="600" letter-spacing=".3">DATA ENGINEERING  /  CLOUD SYSTEMS  /  APPLIED AI</text>
+<text x="57" y="220" fill="#b1bbce" font-family="Arial,sans-serif" font-size="15">I turn operational complexity into systems people can trust and improve.</text>
+<g fill="#7887a3" font-family="monospace" font-size="10" letter-spacing="2">
+  <text x="57" y="329">SYSTEMS THINKING</text><text x="253" y="329">·</text><text x="276" y="329">DATA PRODUCTS</text><text x="433" y="329">·</text><text x="456" y="329">MEASURABLE IMPACT</text>
+</g>
+<g class="orbit" fill="none" stroke="#85a0ff" stroke-opacity=".32">
+  <ellipse cx="925" cy="174" rx="205" ry="62" transform="rotate(-30 925 174)"/>
+</g>
+<g class="orbit-reverse" fill="none" stroke="#72d9d9" stroke-opacity=".24">
+  <ellipse cx="925" cy="174" rx="182" ry="113" transform="rotate(50 925 174)"/>
+</g>
+<ellipse cx="925" cy="174" rx="120" ry="120" fill="none" stroke="#c4d0f1" stroke-opacity=".13" stroke-dasharray="2 8"/>
+<circle cx="925" cy="174" r="74" fill="#121a2d" stroke="#9bb0ff" stroke-opacity=".35"/>
+<circle cx="925" cy="174" r="58" fill="#101624" stroke="#72d9d9" stroke-opacity=".3"/>
+<text x="925" y="168" text-anchor="middle" fill="#7edade" font-family="monospace" font-size="10" letter-spacing="2">BUILD</text>
+<text x="925" y="191" text-anchor="middle" fill="#eef2fb" font-family="Arial,sans-serif" font-weight="700" font-size="18">USEFUL</text>
+<circle class="node" cx="793" cy="104" r="5" fill="#78dce0"/><circle class="node" cx="1095" cy="120" r="4" fill="#e0bd77"/>
+<circle class="node" cx="1067" cy="253" r="5" fill="#91aaff"/><circle class="node" cx="791" cy="244" r="4" fill="#77d7a1"/>
+<path class="beam" d="M750 289H1120" stroke="url(#beam)" stroke-width="2"/>
+</svg>
