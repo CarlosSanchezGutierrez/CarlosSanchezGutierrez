@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="152" viewBox="0 0 1200 152" role="img" aria-labelledby="title desc">
+<title id="title">Animated experience wordmarks</title>
+<desc id="desc">A clean animated row of wordmarks for Tec de Monterrey, HEINEKEN, CEMEX, FEMSA, Santander, IEEE and Cruz Roja.</desc>
+<defs>
+  <linearGradient id="edge"><stop stop-color="#0b0e14" stop-opacity="1"/><stop offset=".08" stop-color="#0b0e14" stop-opacity="0"/><stop offset=".92" stop-color="#0b0e14" stop-opacity="0"/><stop offset="1" stop-color="#0b0e14" stop-opacity="1"/></linearGradient>
+  <linearGradient id="beam"><stop stop-color="#5ed3e8" stop-opacity="0"/><stop offset=".5" stop-color="#5ed3e8" stop-opacity=".8"/><stop offset="1" stop-color="#5ed3e8" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+  .mark{animation:soft-pulse 4.8s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+  .mark:nth-child(2){animation-delay:-.7s}.mark:nth-child(3){animation-delay:-1.4s}.mark:nth-child(4){animation-delay:-2.1s}.mark:nth-child(5){animation-delay:-2.8s}.mark:nth-child(6){animation-delay:-3.5s}.mark:nth-child(7){animation-delay:-4.2s}
+  .beam{animation:glide 7s ease-in-out infinite}
+  @keyframes soft-pulse{50%{opacity:.7}}
+  @keyframes glide{0%{transform:translateX(-360px)}100%{transform:translateX(1200px)}}
+  @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important}}
+</style>
+<rect width="1200" height="152" rx="19" fill="#0b0e14"/>
+<rect x=".5" y=".5" width="1199" height="151" rx="18.5" fill="none" stroke="#d3ddf2" stroke-opacity=".12"/>
+<text x="29" y="30" fill="#77839a" font-family="monospace" font-size="10" letter-spacing="2">EXPERIENCE · RESEARCH · BUILDING IN PUBLIC</text>
+<g class="mark" transform="translate(22 0)">
+  <circle cx="18" cy="88" r="15" fill="#e94a27" fill-opacity=".16" stroke="#e94a27" stroke-opacity=".6"/><text x="18" y="92" text-anchor="middle" fill="#f28a6d" font-family="Arial,sans-serif" font-size="9" font-weight="700">TEC</text><text x="41" y="93" fill="#e5eaf4" font-family="Arial,sans-serif" font-size="10.5" font-weight="700">TEC MONTERREY</text>
+</g>
+<g class="mark" transform="translate(187 0)">
+  <circle cx="18" cy="88" r="15" fill="#28b765" fill-opacity=".13" stroke="#28b765" stroke-opacity=".55"/><path d="M12 92l6-10 6 10z" fill="none" stroke="#5dd58c" stroke-width="1.5"/><text x="41" y="93" fill="#63d48d" font-family="Arial,sans-serif" font-size="11.5" font-weight="800">HEINEKEN</text>
+</g>
+<g class="mark" transform="translate(352 0)">
+  <circle cx="18" cy="88" r="15" fill="#4d89ff" fill-opacity=".15" stroke="#4d89ff" stroke-opacity=".56"/><path d="M11 84h14M11 88h11M11 92h8" stroke="#8eb1ff" stroke-width="1.7"/><text x="41" y="94" fill="#8eb1ff" font-family="Arial,sans-serif" font-size="13" font-weight="800" letter-spacing=".6">CEMEX</text>
+</g>
+<g class="mark" transform="translate(517 0)">
+  <circle cx="18" cy="88" r="15" fill="#d5aa63" fill-opacity=".15" stroke="#d5aa63" stroke-opacity=".55"/><path d="M13 81h10v14H13z" fill="none" stroke="#e4c88e" stroke-width="1.4"/><text x="41" y="94" fill="#e4c88e" font-family="Arial,sans-serif" font-size="13" font-weight="800" letter-spacing=".8">FEMSA</text>
+</g>
+<g class="mark" transform="translate(682 0)">
+  <circle cx="18" cy="88" r="15" fill="#e45a6a" fill-opacity=".14" stroke="#e45a6a" stroke-opacity=".55"/><path d="M18 78c-6 8-8 12 0 18 8-6 6-10 0-18z" fill="none" stroke="#f58a94" stroke-width="1.5"/><text x="41" y="94" fill="#f08a93" font-family="Arial,sans-serif" font-size="12" font-weight="700">Santander</text>
+</g>
+<g class="mark" transform="translate(847 0)">
+  <circle cx="18" cy="88" r="15" fill="#6f9de5" fill-opacity=".14" stroke="#6f9de5" stroke-opacity=".55"/><path d="M10 84h16M10 88h16M10 92h16" stroke="#9bbafa" stroke-width="1.35"/><text x="41" y="94" fill="#abc3f1" font-family="Arial,sans-serif" font-size="13" font-weight="800" letter-spacing=".7">IEEE</text>
+</g>
+<g class="mark" transform="translate(1012 0)">
+  <circle cx="18" cy="88" r="15" fill="#ee4858" fill-opacity=".13" stroke="#ee4858" stroke-opacity=".6"/><path d="M16 80h4v6h6v4h-6v6h-4v-6h-6v-4h6z" fill="#fa6b77"/><text x="41" y="94" fill="#ff7781" font-family="Arial,sans-serif" font-size="11.5" font-weight="700">CRUZ ROJA</text>
+</g>
+<rect class="beam" x="0" y="146" width="360" height="2" fill="url(#beam)"/>
+<rect width="1200" height="152" rx="19" fill="url(#edge)" pointer-events="none"/>
+</svg>
