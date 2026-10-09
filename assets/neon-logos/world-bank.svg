@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="112" viewBox="0 0 340 112" role="img" aria-labelledby="title desc">
+<title id="title">WORLD BANK GROUP animated neon wordmark</title><desc id="desc">Custom animated neon-style identity card for WORLD BANK GROUP.</desc>
+<defs><linearGradient id="edge"><stop stop-color="#0CF0FF"/><stop offset=".52" stop-color="#527BFF"/><stop offset="1" stop-color="#FF3DBE"/></linearGradient><filter id="glow" x="-30%" y="-40%" width="160%" height="180%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="flare"><stop stop-color="20B7C5" stop-opacity="0"/><stop offset=".5" stop-color="20B7C5" stop-opacity=".8"/><stop offset="1" stop-color="20B7C5" stop-opacity="0"/></linearGradient></defs>
+<style>
+.frame{animation:pulse 3.8s ease-in-out infinite}.halo{animation:halo 4s ease-in-out infinite}.scan{animation:scan 5.5s ease-in-out infinite}.mark{animation:float 4s ease-in-out infinite}
+@keyframes pulse{0%,100%{stroke-opacity:.42}50%{stroke-opacity:1;filter:url(#glow)}}
+@keyframes halo{0%,100%{opacity:.1}50%{opacity:.32}}
+@keyframes scan{0%{transform:translateX(-350px)}100%{transform:translateX(350px)}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-2px)}}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important}}
+</style>
+<rect x="1" y="1" width="338" height="110" rx="18" fill="#090D18" stroke="url(#edge)" stroke-width="2" class="frame"/>
+<rect x="5" y="5" width="330" height="102" rx="14" fill="20B7C5" opacity=".1" class="halo"/>
+<path class="scan" d="M0 10h52l48 92H96z" fill="url(#flare)" opacity=".42"/>
+<circle cx="55" cy="56" r="28" fill="#070B14" stroke="20B7C5" stroke-opacity=".8" stroke-width="2"/>
+<circle cx="55" cy="56" r="22" fill="20B7C5" opacity=".12" class="halo"/>
+<text class="mark" x="55" y="64" text-anchor="middle" font-family="Lato,Arial,sans-serif" font-size="24" font-weight="900" fill="#FFFFFF">WB</text>
+<text x="100" y="62" font-family="Lato,Arial,sans-serif" font-size="18" font-weight="900" letter-spacing=".4" fill="#F3F7FF">WORLD BANK GROUP</text>
+<path d="M100 78h196" stroke="20B7C5" stroke-opacity=".46"/><circle cx="298" cy="78" r="2.5" fill="20B7C5" filter="url(#glow)"/>
+</svg>
