@@ -13,11 +13,11 @@
 
 </div>
 
-## About
+## Carlos Sánchez Gutiérrez
 
-I am a Computer Science and Technology student at **Tecnológico de Monterrey**, expected to graduate in **June 2027**. I work across data engineering, cloud platforms, applied AI and product development.
+**Computer Science and Technology student at Tecnológico de Monterrey · Data Engineering · Cloud Platforms · Applied AI**
 
-My starting point is the operation: what needs to happen, where the data comes from, what can fail, and who depends on the outcome. I connect the data model, architecture and workflow to a system people can trust, understand and improve. **Traceability and adoption matter as much as the code.**
+I build data pipelines, analytics platforms and applied AI systems that connect operational needs to reliable decisions. I start by understanding how work happens, where data comes from and what can fail; then I shape the data model, architecture and delivery around traceability, adoption and measurable outcomes. Expected graduation: **June 2027**.
 
 ## Selected impact
 
@@ -35,23 +35,23 @@ My starting point is the operation: what needs to happen, where the data comes f
 
 | Organization | Role and selected work |
 | :--- | :--- |
-| <img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/heineken.svg" width="150" alt="Animated HEINEKEN México neon wordmark" /> | **Data Engineer Intern · Aug 2026–Jan 2027**<br />Operate recurring pipelines across Azure Blob Storage and Databricks; automate file transfer and preparation; develop analytics-ready layers for Power BI; support DataOps validation, release controls and architecture documentation. |
-| <img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/cemex.svg" width="150" alt="Animated CEMEX neon wordmark" /> | **Global Data Science Intern · EPAM NEORIS collaboration · Jan–Apr 2026**<br />Built Python and SQL workflows across Snowflake, Databricks and Azure for replenishment, forecasting and inventory planning. Translated Mexico and U.S. operating constraints into reusable data rules, contributing to an initiative associated with approximately **USD 284K in annual savings**. |
-| <img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/femsa.svg" width="150" alt="Animated FEMSA neon wordmark" /> | **Enterprise GRC/IRM platform architecture · Aug–Dec 2026**<br />Architecting a vendor-neutral platform across cloud and on-prem environments, with a canonical enterprise model, governed AI, observability and post-quantum cryptographic assurance. |
-| <img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/santander.svg" width="150" alt="Animated Santander neon wordmark" /> | **Document and training analytics platform · Aug–Dec 2025**<br />Designed MySQL data models and ETL pipelines for individual and branch dashboards; defined the AWS architecture and coordinated delivery through GitHub and Scrum. |
-| <img src="https://cruzrojamexicana.org.mx/images/logo.png" width="150" alt="Cruz Roja Mexicana official logo" /> | **Completed project**<br />This project is complete and is not yet listed in my résumé. I am keeping this entry high-level until its project description is ready to publish. |
-| <img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/salva-systems.svg" width="90" alt="Animated Salva Systems logo" /> | **Co-founder · Data & Product Development · Mar 2026–present**<br />Building Aplomo, a geospatial platform for industrial-yard inventory and truck traceability, and ATENOR, a multi-business WhatsApp platform for customer, catalog, conversation and order workflows. |
+| <img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/heineken.svg" width="150" alt="Animated HEINEKEN México wordmark" /><br /><strong>HEINEKEN México</strong> | **Data Engineer Intern · Aug 2026–Jan 2027**<br />Operate recurring pipelines across Azure Blob Storage and Databricks; automate file transfer and preparation; develop analytics-ready layers for Power BI; support DataOps validation, release controls and architecture documentation. |
+| <img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/cemex.svg" width="150" alt="Animated CEMEX wordmark" /><br /><strong>CEMEX</strong> | **Global Data Science Intern · EPAM NEORIS collaboration · Jan–Apr 2026**<br />Built Python and SQL workflows across Snowflake, Databricks and Azure for replenishment, forecasting and inventory planning. Translated Mexico and U.S. operating constraints into reusable data rules, contributing to an initiative associated with approximately **USD 284K in annual savings**. |
+| <img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/femsa.svg" width="150" alt="Animated FEMSA wordmark" /><br /><strong>FEMSA</strong> | **Enterprise GRC/IRM platform architecture · Aug–Dec 2026**<br />Architecting a vendor-neutral platform across cloud and on-prem environments, with a canonical enterprise model, governed AI, observability and post-quantum cryptographic assurance. |
+| <img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/santander.svg" width="150" alt="Animated Santander wordmark" /><br /><strong>Santander</strong> | **Document and training analytics platform · Aug–Dec 2025**<br />Designed MySQL data models and ETL pipelines for individual and branch dashboards; defined the AWS architecture and coordinated delivery through GitHub and Scrum. [Project repository](https://github.com/CarlosSanchezGutierrez/santander-banking-app) |
+| <img src="https://cruzrojamexicana.org.mx/images/logo.png" width="150" alt="Cruz Roja Mexicana official logo" /><br /><strong>Cruz Roja Mexicana</strong> | **Completed project**<br />This project is complete and is not yet listed in my résumé. I am keeping this entry high-level until its project description is ready to publish. |
+| <img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/salva-systems.svg" width="90" alt="Animated Salva Systems logo" /><br /><strong>Salva Systems</strong> | **Co-founder · Data & Product Development · Mar 2026–present**<br />Building Aplomo, a geospatial platform for industrial-yard inventory and truck traceability, and ATENOR, a multi-business WhatsApp platform for customer, catalog, conversation and order workflows. |
 
 ## Selected work
 
 | Project | What I built |
 | :--- | :--- |
-| **Aplomo** | Industrial-yard operations: geospatial inventory, material locations, appointments, capacity and truck traceability. [Salva Systems](https://www.salvasystems.com/) |
-| **ATENOR** | Multi-business WhatsApp workflows for customers, catalogs, conversations and orders, with AI-assisted responses, staff review and reporting. [Product site](https://www.salvasystems.site/) |
+| **Aplomo** | Industrial-yard operations: geospatial inventory, material locations, appointments, capacity and truck traceability. [Repository](https://github.com/CarlosSanchezGutierrez/industrial-yard-intelligence) · [Project site](https://aplomosystems.com) · [Salva Systems](https://www.salvasystems.com/) |
+| **ATENOR** | Multi-business WhatsApp workflows for customers, catalogs, conversations and orders, with AI-assisted responses, staff review and reporting. [Product overview](https://www.salvasystems.site/) |
 | **NeoGuard** | Data ingestion, database design, analysis and visualization for an IoT and AI neonatal-monitoring system. [IEEE paper](https://ieeexplore.ieee.org/abstract/document/11273018) |
-| **CausalXAI** | Explainable anomaly diagnosis with causal graphs, residual scoring, graph optimization and robustness testing. |
+| **CausalXAI** | Explainable anomaly diagnosis with causal graphs, residual scoring, graph optimization and robustness testing. [Repository](https://github.com/CarlosSanchezGutierrez/XAI-Project-Algoritmos-Avanzados) |
 | **Industrial energy decision support** | FastAPI, RAG and a local LLM for cited report evaluation, validated inputs and reproducible calculations. |
-| <img src="https://www.caritas.org.mx/wp-content/uploads/2019/11/caritasmty-logo-white_dc4a69f5a9b61be4fa028ffde84f244d.png" width="120" alt="Cáritas de Monterrey official logo" /><br /><strong>Cáritas de Monterrey</strong> | Two implementations: a C# backend and REST API with client applications developed against that API, plus a separate native Swift app built for class. |
+| <img src="https://www.caritas.org.mx/wp-content/uploads/2019/11/caritasmty-logo-white_dc4a69f5a9b61be4fa028ffde84f244d.png" width="120" alt="Cáritas de Monterrey official logo" /><br /><strong>Cáritas de Monterrey</strong> | Two implementations: a C# backend and REST API with client applications developed against that API, plus a separate native Swift app built for class. [C# backend and API](https://github.com/CarlosSanchezGutierrez/caritas-brigadas-salud) · [Native Swift app](https://github.com/CarlosSanchezGutierrez/Native-iOS-Medical-Brigade-Management-App) |
 
 ## Research
 
@@ -97,8 +97,8 @@ I co-founded **Salva Systems** with my close friends and collaborators **[Lehi S
 
 | Project | |
 | :--- | :--- |
-| <img src="https://puenteimpacto.org/brand/puente_impacto_face.png" width="58" alt="Puente Impacto official logo" /> | [Puente Impacto](https://puenteimpacto.org/) |
-| <img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/archivo-steam.svg" width="150" alt="Animated Archivo STEAM identity card" /> | [Archivo STEAM](https://www.archivostem.com/) |
+| <img src="https://puenteimpacto.org/brand/puente_impacto_face.png" width="58" alt="Puente Impacto official logo" /> | [Puente Impacto](https://puenteimpacto.org/) · [Repository](https://github.com/CarlosSanchezGutierrez/puente) |
+| <img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/neon-logos/archivo-steam.svg" width="150" alt="Animated Archivo STEAM identity card" /> | [Archivo STEAM](https://www.archivostem.com/) · [Repository](https://github.com/CarlosSanchezGutierrez/archivo-stem) |
 | | [Salva Systems](https://www.salvasystems.com/) · [Salva Exclusive Caps](https://salvaexclusivecaps.site/) · [RUNIIS](https://runiismty.com/) · [Personal portfolio](https://carlossanchezgutierrez.com/) · [Salva Systems product site](https://www.salvasystems.site/) |
 
 ## What's next
