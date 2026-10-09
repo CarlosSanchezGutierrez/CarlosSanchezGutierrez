@@ -122,9 +122,8 @@ I co-founded **Salva Systems** with my close friends and collaborators **[Lehi S
   <img src="https://github-readme-stats.vercel.app/api?username=CarlosSanchezGutierrez&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0B0E14&title_color=F4F5F7&text_color=A7AFBD" height="170" alt="GitHub public account statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosSanchezGutierrez&layout=compact&theme=github_dark&hide_border=true&bg_color=0B0E14&title_color=F4F5F7&text_color=A7AFBD" height="170" alt="Most-used public GitHub languages" />
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosSanchezGutierrez&theme=github-compact&hide_border=true&area=true" width="96%" alt="GitHub public activity graph" />
 </div>
 
-<p align="center"><sub>GitHub cards use public profile data and update independently. Metrics may reflect only public activity.</sub></p>
+<p align="center"><sub>GitHub statistics summarize public activity; the native contribution calendar and activity timeline appear directly below the profile README.</sub></p>
 
 <p align="center"><sub>Data, software and systems built with purpose.</sub></p>
