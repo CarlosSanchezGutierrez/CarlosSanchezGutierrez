@@ -1,20 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="340" height="112" viewBox="0 0 340 112" role="img" aria-labelledby="title desc">
-<title id="title">ARCHIVO STEAM animated neon wordmark</title><desc id="desc">Custom animated neon-style identity card for ARCHIVO STEAM.</desc>
-<defs><linearGradient id="edge"><stop stop-color="#0CF0FF"/><stop offset=".52" stop-color="#527BFF"/><stop offset="1" stop-color="#FF3DBE"/></linearGradient><filter id="glow" x="-30%" y="-40%" width="160%" height="180%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="flare"><stop stop-color="38D8D0" stop-opacity="0"/><stop offset=".5" stop-color="38D8D0" stop-opacity=".8"/><stop offset="1" stop-color="38D8D0" stop-opacity="0"/></linearGradient></defs>
-<style>
-.frame{animation:pulse 3.8s ease-in-out infinite}.halo{animation:halo 4s ease-in-out infinite}.scan{animation:scan 5.5s ease-in-out infinite}.mark{animation:float 4s ease-in-out infinite}
-@keyframes pulse{0%,100%{stroke-opacity:.42}50%{stroke-opacity:1;filter:url(#glow)}}
-@keyframes halo{0%,100%{opacity:.1}50%{opacity:.32}}
-@keyframes scan{0%{transform:translateX(-350px)}100%{transform:translateX(350px)}}
-@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-2px)}}
-@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important}}
-</style>
-<rect x="1" y="1" width="338" height="110" rx="18" fill="#090D18" stroke="url(#edge)" stroke-width="2" class="frame"/>
-<rect x="5" y="5" width="330" height="102" rx="14" fill="38D8D0" opacity=".1" class="halo"/>
-<path class="scan" d="M0 10h52l48 92H96z" fill="url(#flare)" opacity=".42"/>
-<circle cx="55" cy="56" r="28" fill="#070B14" stroke="38D8D0" stroke-opacity=".8" stroke-width="2"/>
-<circle cx="55" cy="56" r="22" fill="38D8D0" opacity=".12" class="halo"/>
-<text class="mark" x="55" y="64" text-anchor="middle" font-family="Lato,Arial,sans-serif" font-size="24" font-weight="900" fill="#FFFFFF">A</text>
-<text x="100" y="62" font-family="Lato,Arial,sans-serif" font-size="23" font-weight="900" letter-spacing=".4" fill="#F3F7FF">ARCHIVO STEAM</text>
-<path d="M100 78h196" stroke="38D8D0" stroke-opacity=".46"/><circle cx="298" cy="78" r="2.5" fill="38D8D0" filter="url(#glow)"/>
+<title id="title">ARCHIVO STEAM official logo with animated neon frame</title><desc id="desc">The original ARCHIVO STEAM logo is preserved inside a custom animated neon frame.</desc>
+<defs><linearGradient id="edge"><stop stop-color="#14ECFF"/><stop offset=".5" stop-color="#6D78FF"/><stop offset="1" stop-color="#F04BC7"/></linearGradient><filter id="glow" x="-30%" y="-50%" width="160%" height="200%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="scan"><stop stop-color="#20F4FF" stop-opacity="0"/><stop offset=".5" stop-color="#20F4FF" stop-opacity=".5"/><stop offset="1" stop-color="#20F4FF" stop-opacity="0"/></linearGradient></defs>
+<style>.frame{animation:ignite 3.6s ease-in-out infinite}.halo{animation:breathe 4s ease-in-out infinite}.beam{animation:pass 5.5s ease-in-out infinite}.word{font:900 20px Lato,Arial,sans-serif;letter-spacing:1px;fill:#f4f7ff}.sub{font:700 8px Lato,Arial,sans-serif;letter-spacing:1.5px;fill:#8c9bb2}
+@keyframes ignite{0%,100%{stroke-opacity:.42}50%{stroke-opacity:1;filter:url(#glow)}}@keyframes breathe{50%{opacity:.52}}@keyframes pass{0%{transform:translateX(-380px)}100%{transform:translateX(380px)}}@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important}}</style>
+<rect x="1" y="1" width="338" height="110" rx="17" fill="#090D18" stroke="url(#edge)" stroke-width="2.2" class="frame"/>
+<rect x="7" y="7" width="326" height="98" rx="13" fill="#35E6FF" opacity=".1" class="halo"/>
+<rect x="18" y="20" width="304" height="72" rx="10" fill="#F7F9FC" stroke="#ffffff" stroke-opacity=".8"/>
+<image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+CiAgPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNyIgZmlsbD0iIzBEMEQwRCIvPgogIDxwYXRoIGQ9Ik04IDI1IEwxMC41IDI1IEwxMC41IDEwLjUgQzEwLjUgNyAxMy4yIDUuMiAxNiA1LjIgQzE4LjggNS4yIDIxLjUgNyAyMS41IDEwLjUgTDIxLjUgMjUgTDI0IDI1IiBmaWxsPSJub25lIiBzdHJva2U9IiNGNUY1RjIiIHN0cm9rZS13aWR0aD0iMS43IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KICA8bGluZSB4MT0iMTUiIHkxPSI5LjQiIHgyPSIxNSIgeTI9IjI0IiBzdHJva2U9IiNFM0I0NUUiIHN0cm9rZS13aWR0aD0iMS45IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KICA8bGluZSB4MT0iMTMuNCIgeTE9IjEwLjYiIHgyPSIxMy40IiB5Mj0iMjMuNSIgc3Ryb2tlPSIjRTNCNDVFIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgb3BhY2l0eT0iMC42Ii8+Cjwvc3ZnPgo=" x="22" y="22" width="62" height="62" preserveAspectRatio="xMidYMid meet"/><text x="102" y="61" class="word">ARCHIVO STEAM</text><text x="102" y="80" class="sub">OFFICIAL PROJECT MARK</text>
+<path class="beam" d="M0 13h42l48 86H86z" fill="url(#scan)" opacity=".45"/>
 </svg>
