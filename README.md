@@ -9,7 +9,7 @@
   <a href="#contact">CONTACT</a>
 </p>
 
-<img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/experience-wordmarks.svg?v=2" width="100%" alt="Animated wordmarks for Tec de Monterrey, HEINEKEN, CEMEX, FEMSA, Santander, IEEE and Cruz Roja" />
+<img src="https://raw.githubusercontent.com/CarlosSanchezGutierrez/CarlosSanchezGutierrez/main/assets/experience-wordmarks-v2.svg" width="100%" alt="Animated wordmarks for Tec de Monterrey, HEINEKEN, CEMEX, FEMSA, Santander, IEEE and Cruz Roja" />
 
 </div>
 
